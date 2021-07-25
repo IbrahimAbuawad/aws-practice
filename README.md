@@ -1,22 +1,14 @@
 # server-deployment-practice
 
-## Heroku Apps
+## AWS App
 
-[main herokuapp](https://ibrahimawad-server-deploy-prod.herokuapp.com)
-[dev herokuapp](https://ibrahimawad-server-deploy-dev.herokuapp.com)
+[GUI](http://awspractice-env.eba-jx2rdx5a.us-east-1.elasticbeanstalk.com)
 
 
-## Actions 
-
-[Actions link](https://github.com/IbrahimAbuawad/server-deployment-practice/actions)
 
 ## Pull Requests
 
-[pull req 1](https://github.com/IbrahimAbuawad/server-deployment-practice/pull/1)
-
-## drawer
-
-![WRRC](https://image.slidesharecdn.com/inft132-09303webconcepts-090920164402-phpapp02/95/inft132-093-03-web-concepts-5-728.jpg?cb=1253465082)
+[pull req 1](https://github.com/IbrahimAbuawad/cloud-server/pull/1)
 
 
 ### How do I install the app or library?
@@ -27,7 +19,7 @@
 
 #### in your terminal use 'npm test'
 
-### 
+
 
 #### How do I run the app
  
